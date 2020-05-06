@@ -1291,3 +1291,11 @@ strong {
 .list-job{
     padding: 20px;
 }
+
+.job__company {
+    padding-top: 15px;
+}
+
+.job__time{
+    padding-top: 15px;
+}
