@@ -108,10 +108,10 @@ const fadeEffect = setInterval(() => {
     preloader.style.opacity = 1;
   }
   if (preloader.style.opacity > 0) {
-    preloader.style.opacity -= 0.1;
+    preloader.style.opacity -= 0.05;
   } else {
     clearInterval(fadeEffect);
   }
-}, 200);
+}, 100);
 
 window.addEventListener('load', fadeEffect);
