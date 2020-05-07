@@ -1299,3 +1299,31 @@ strong {
 .job__time{
     padding-top: 15px;
 }
+
+
+.left-border{
+object-position: center;    
+    padding: 5px;
+border-radius: 25px;
+  border: 2px solid #e05236;
+  width: 200px;
+    float: left;
+    width: auto;
+
+
+}
+
+.empty-space{
+   
+    padding: 10px;
+    float: left;
+    width: auto;
+}
+
+.left-border, p{
+position: relative;
+}
+
+.space-border, p{
+    padding-right: 45px;
+}
