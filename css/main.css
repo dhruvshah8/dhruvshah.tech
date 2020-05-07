@@ -1320,10 +1320,6 @@ border-radius: 25px;
     width: auto;
 }
 
-.left-border, p{
-position: relative;
-}
 
-.space-border, p{
-    padding-right: 45px;
-}
+
+
